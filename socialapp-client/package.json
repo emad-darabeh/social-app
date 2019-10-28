@@ -37,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://europe-west1-social-app-4f940.cloudfunctions.net/api"
+  "proxy": "API_KEY"
 }
